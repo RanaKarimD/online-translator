@@ -68,14 +68,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout">
 
-        <MultiAutoCompleteTextView
-            android:id="@+id/multiAutoCompleteTextView"
+        <Spinner
+            android:id="@+id/fromSpinner"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="35dp"
             android:layout_marginStart="15dp"
             android:layout_weight="0.4"
             android:fontFamily="@font/aladin"
-            android:textSize="24sp" />
+            android:textSize="24sp"
+            android:background="#ffff"/>
 
 
         <ImageView
@@ -85,14 +86,15 @@
             android:layout_weight="0.5"
             app:srcCompat="@drawable/ic_baseline_arrow_forward_24" />
 
-        <MultiAutoCompleteTextView
-            android:id="@+id/multiAutoCompleteTextView3"
+        <Spinner
+            android:id="@+id/spinnerto"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="35dp"
             android:layout_marginEnd="15dp"
             android:layout_weight="0.4"
             android:fontFamily="@font/aladin"
-            android:textSize="24sp" />
+            android:textSize="24sp"
+            android:background="#ffff"/>
     </LinearLayout>
 
 
@@ -147,7 +149,7 @@
             android:backgroundTint="#FFFFFF"
             android:hint="enter word"
             android:inputType="textMultiLine"
-            android:paddingVertical="26dp"
+            android:paddingVertical="20dp"
             android:paddingLeft="3dp"
             android:paddingRight="3dp"
             android:textColor="#252525"
