@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Rana/AndroidStudioProjects/OnlineTranslator2/app/src/main/res/drawable/bg_word_translation.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/Rana/AndroidStudioProjects/OnlineTranslator2/app/src/main/res/drawable/bg_word_translation_top.xml" value="0.24791666666666667" />
         <entry key="..\:/Users/Rana/AndroidStudioProjects/OnlineTranslator2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
         <entry key="..\:/Users/Rana/AndroidStudioProjects/OnlineTranslator2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Rana/AndroidStudioProjects/OnlineTranslator2/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Rana/AndroidStudioProjects/OnlineTranslator2/app/src/main/res/layout/activity_word_translation.xml" value="0.264" />
       </map>
     </option>
   </component>
